@@ -1,0 +1,1 @@
+man -P cat ping | grep -e -U -A 2 > output.txt

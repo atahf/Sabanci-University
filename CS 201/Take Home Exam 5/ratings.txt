@@ -1,0 +1,29 @@
+10	Dark
+7.4	Daredevil
+3.1	The Office
+9.5	The WitcHer
+6.5	Peaky Blinders
+8.7	The Punisher
+4.2	Prison Break
+8.5	Community
+9.1	Seinfeld
+9.2	The Walking Dead
+2.1	Friends
+0	The Queens Gambit
+8.3	Game Of Thrones
+1	The Office
+8.9	Lucifer
+10.0	SeinFeld
+8.1	Vikings
+7.5	How I Met Your Mother
+3	The queens Gambit
+7.5	Suits
+9.6	Dark
+2.3	The Office
+8.1	The Punisher
+7.6	Daredevil
+8.7	Breaking Bad
+7.3	Peaky Blinders
+8.6	Modern Family
+10	The Witcher
+9.9	The Walking Dead

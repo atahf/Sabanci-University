@@ -1,0 +1,15 @@
+﻿  ataollah_the5.cpp
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(65): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(105): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(191): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(201): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(217): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(226): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(244): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(254): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(262): warning C4018: '<': signed/unsigned mismatch
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(135): warning C4101: 'p_ch': unreferenced local variable
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(137): warning C4101: 'index': unreferenced local variable
+d:\documents\university\cs 201\ataollah_the5\ataollah_the5\ataollah_the5.cpp(135): warning C4101: 'ch': unreferenced local variable
+  ataollah_the5.vcxproj -> D:\Documents\University\CS 201\ataollah_the5\Debug\ataollah_the5.exe

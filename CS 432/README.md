@@ -1,0 +1,3 @@
+# <h1><b>CS 432 - Computer and Network Security</b></h1>
+
+Course details: Overview of Cryptography, Identification and Authentication, Access Control, Operating System Security(UNIX and Windows Environments), Key Distribution, TCP/IP Security, IPSec, DNSSEC, WWW Security, SSL and TLS, E-mail Security (PGP, S/MIME), PKI and certificate systems, Viruses, Firewalls, Instrusion Detection, E-commerce Security

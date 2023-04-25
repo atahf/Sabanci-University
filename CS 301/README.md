@@ -1,0 +1,3 @@
+# <h1><b>CS 301 - Algorithms</b></h1>
+
+Course details: This course will cover algorithms for a variety of problems, as well as general algorithm design and analysis techniques such as divide-and-conquer, dynamic programming, and greedy algorithms. Specific topics include algorithm analysis, recurrences and asymptotic analysis; searching, sorting; algorithms for fundamental graph problems, such as depth-first search,connected components,topological sort,shortest paths.

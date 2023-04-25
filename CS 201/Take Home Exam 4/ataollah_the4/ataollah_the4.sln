@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ataollah_the4", "ataollah_the4\ataollah_the4.vcxproj", "{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Debug|x64.ActiveCfg = Debug|x64
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Debug|x64.Build.0 = Debug|x64
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Debug|x86.ActiveCfg = Debug|Win32
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Debug|x86.Build.0 = Debug|Win32
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Release|x64.ActiveCfg = Release|x64
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Release|x64.Build.0 = Release|x64
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Release|x86.ActiveCfg = Release|Win32
+		{4CFF15D9-B91D-4E63-B3CC-863F5B0A2A87}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D67561B-8B1B-4396-A225-22B4BEC54E5C}
+	EndGlobalSection
+EndGlobal

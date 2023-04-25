@@ -1,0 +1,22 @@
+/**
+         * Method that performs quadratic probing resolution.
+         * Return the position where the search for x terminates.
+         */
+        template <class HashedObj>
+        int HashTable<HashedObj>::findPos( const HashedObj & x ) const
+        {
+               int i = 0;   // number of collusions
+               
+	int p = hash( x, array.size( ) ); // current position
+
+               while( array[ p ].info != EMPTY && array[ p ].element != x ) {
+
+                   p += 2 * ++i - 1;  // add the difference
+
+                   if( p >= array.size( ) )             // perform the mod
+                       p -= array.size( );                // if necessary
+                }
+
+           return p;
+        }
+ 

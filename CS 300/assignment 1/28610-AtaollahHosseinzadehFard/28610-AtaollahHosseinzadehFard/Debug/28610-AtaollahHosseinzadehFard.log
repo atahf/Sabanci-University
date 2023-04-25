@@ -1,0 +1,19 @@
+﻿Build started 02/11/2021 18:15:22.
+     1>Project "C:\Users\hosse\Documents\Documents\University\CS 300\assignments\assignment 1\28610-AtaollahHosseinzadehFard\28610-AtaollahHosseinzadehFard\28610-AtaollahHosseinzadehFard.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt "28610-AtaollahHosseinzadehFard.cpp" Source.cpp
+         Source.cpp
+         28610-AtaollahHosseinzadehFard.cpp
+     1>c:\users\hosse\documents\documents\university\cs 300\assignments\assignment 1\28610-ataollahhosseinzadehfard\28610-ataollahhosseinzadehfard\28610-ataollahhosseinzadehfard.cpp(56): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hosse\documents\documents\university\cs 300\assignments\assignment 1\28610-ataollahhosseinzadehfard\28610-ataollahhosseinzadehfard\28610-ataollahhosseinzadehfard.cpp(67): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\hosse\documents\documents\university\cs 300\assignments\assignment 1\28610-ataollahhosseinzadehfard\28610-ataollahhosseinzadehfard\28610-ataollahhosseinzadehfard.cpp(82): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\hosse\Documents\Documents\University\CS 300\assignments\assignment 1\28610-AtaollahHosseinzadehFard\Debug\28610-AtaollahHosseinzadehFard.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\hosse\Documents\Documents\University\CS 300\assignments\assignment 1\28610-AtaollahHosseinzadehFard\Debug\28610-AtaollahHosseinzadehFard.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\hosse\Documents\Documents\University\CS 300\assignments\assignment 1\28610-AtaollahHosseinzadehFard\Debug\28610-AtaollahHosseinzadehFard.lib" /MACHINE:X86 "Debug\28610-AtaollahHosseinzadehFard.obj"
+         Debug\Source.obj
+         28610-AtaollahHosseinzadehFard.vcxproj -> C:\Users\hosse\Documents\Documents\University\CS 300\assignments\assignment 1\28610-AtaollahHosseinzadehFard\Debug\28610-AtaollahHosseinzadehFard.exe
+     1>Done Building Project "C:\Users\hosse\Documents\Documents\University\CS 300\assignments\assignment 1\28610-AtaollahHosseinzadehFard\28610-AtaollahHosseinzadehFard\28610-AtaollahHosseinzadehFard.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.01

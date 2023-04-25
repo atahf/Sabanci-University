@@ -1,0 +1,3 @@
+# <h1><b>CS 201 - Introduction to Computing</b></h1>
+
+Course details: This course is intended to introduce students to the field of computing (basic computer organization, data representation, concepts, algorithmic thinking and problem solving), as well as giving them intermediate level programming abilities in an object-oriented programming language (currently C++). Also part of the "core course" pools for the CS, BIO, MAT, ME, EL, TE, MS degree programs.
