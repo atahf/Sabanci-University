@@ -1,0 +1,3 @@
+# <h1><b>CS 403 - Distributed Systems</b></h1>
+
+Course details: This course focuses on the design, implementation and management of distributed computing systems. Topics include: naming, security, reliability, resource sharing, an remote execution; network protocol issues above the transport level; electronic mail; network and distributed file systems and databases; handling transactions and coordination of multiple machines, consistency models and distributed semantics, fault tolerance.
